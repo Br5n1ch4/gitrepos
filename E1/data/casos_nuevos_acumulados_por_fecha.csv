@@ -1,5 +1,5 @@
 Fecha,Serie,Casos
-2020-03-01,Casos nuevos,
+2020-03-01,Casos nuevos,0.0
 2020-03-02,Casos nuevos,1.0
 2020-03-03,Casos nuevos,2.0
 2020-03-04,Casos nuevos,1.0
@@ -553,7 +553,7 @@ Fecha,Serie,Casos
 2021-09-03,Casos nuevos,477.0
 2021-09-04,Casos nuevos,430.0
 2021-09-05,Casos nuevos,435.0
-2020-03-01,Casos acumulados,
+2020-03-01,Casos acumulados,0.0
 2020-03-02,Casos acumulados,1.0
 2020-03-03,Casos acumulados,3.0
 2020-03-04,Casos acumulados,4.0
